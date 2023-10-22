@@ -4,7 +4,17 @@
 - 📫 How to reach me **peteriskruminss@gmail.com**
 
 - ⚡ Fun fact **programming is fun!**
-
+```
+var skills = new List<string>
+{
+    "C#",
+    ".NET",
+    "HTTP & Web API Basics",
+    "Relational databases",
+    "SOLID",
+    "Design patterns"
+};
+```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/peteriskrumins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/peteriskrumins" height="30" width="40" /></a>
